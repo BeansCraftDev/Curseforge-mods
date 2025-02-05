@@ -34,12 +34,12 @@ side="BOTH"
 modId="bio-delight"
 mandatory=true
 versionRange="[1.0.1,)"
-ordering="NONE"
+ordering="AFTER"
 side="BOTH"
 
 [[dependencies.bcc]]
 modId="cc-tweaked"
 mandatory=true
 versionRange="[1.114.2,)"
-ordering="NONE"
+ordering="AFTER"
 side="BOTH"
