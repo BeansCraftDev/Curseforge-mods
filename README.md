@@ -5,3 +5,5 @@ All credit goes to the creators of:
 https://modrinth.com/mod/cc-tweaked
 
 https://modrinth.com/mod/bio-delight
+
+https://modrinth.com/datapack/create-structures
