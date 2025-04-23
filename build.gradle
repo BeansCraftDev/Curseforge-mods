@@ -71,6 +71,10 @@ dependencies {
         jarJar.ranged(it, "[1.114.2,)")
         jarJar.pin(it, "1.114.2")
     }
+    jarJar("maven.modrinth:create-structures:0.1.1") {
+        jarJar.ranged(it, "[0.1.1,)")
+        jarJar.pin(it, "0.1.1")
+    }
 }
 tasks.named('processResources', ProcessResources).configure {
     var replaceProperties = [
