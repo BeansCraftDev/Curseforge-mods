@@ -71,9 +71,9 @@ dependencies {
         jarJar.ranged(it, "[1.114.2,)")
         jarJar.pin(it, "1.114.2")
     }
-    jarJar("maven.modrinth:create-structures:0.1.1") {
-        jarJar.ranged(it, "[0.1.1,)")
-        jarJar.pin(it, "0.1.1")
+    jarJar("maven.modrinth:IAnP4np7:XALEBs0a") {
+        jarJar.ranged(it, "[XALEBs0a,)")
+        jarJar.pin(it, "XALEBs0a")
     }
 }
 tasks.named('processResources', ProcessResources).configure {
