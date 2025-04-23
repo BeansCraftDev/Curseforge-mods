@@ -9,5 +9,5 @@ public class bcc
     // Define mod id in a common place for everything to reference
     public static final String ID = "bcc";
     public static final String NAME = "BeansCraftLib";
-    public static final String VERSION = "1.0.0";
+    public static final String VERSION = "1.0.1";
 }
